@@ -7,4 +7,6 @@ setwd("~/Documents/bivni_msu/bivni-2/bivni-proba")
 # histogam 
 list.files(".")
  source( "histogram.R")
+
+# сдесь нужен график
  
